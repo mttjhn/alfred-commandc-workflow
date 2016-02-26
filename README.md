@@ -1,4 +1,4 @@
-Command-C Workflow ([Download v1.0](https://raw.github.com/mttjhn/alfred-commandc-workflow/master/Command-C%20Workflow.alfredworkflow))
+Command-C Workflow ([Download v1.0](https://raw.github.com/mttjhn/alfred-commandc-workflow/master/Command-C.alfredworkflow))
 =====================
 
 A workflow to streamline usage of the Command-C App.
@@ -16,7 +16,7 @@ A workflow to streamline usage of the Command-C App.
 Run the [Alleyoop Workflow](http://www.alfredforum.com/topic/1582-alleyoop-update-alfred-workflows/) using the keyword `oop`. If you're not comfortable with Alleyoop, **star & watch this repo** to keep up to date on new versions and additional workflows.
 
 ## About
-More about `A template Alfred Workflow repo to get your next workflow started.`.
+More about this workflow...
 
 ![alt text][alfred]
 
@@ -27,4 +27,4 @@ More about `A template Alfred Workflow repo to get your next workflow started.`.
 ## Contributors
 - [@mttjhn](https://github.com/mttjhn)
 
-[alfred]: ./screenshots/alfred.png "Blank Workflow"
+[alfred]: ./screenshots/alfred.png "Command-C Workflow"
